@@ -527,6 +527,7 @@
 				INFOPLIST_FILE = "SlideMenu/SlideMenu-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos appletvsimulator appletvos";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -539,6 +540,7 @@
 				INFOPLIST_FILE = "SlideMenu/SlideMenu-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos appletvsimulator appletvos";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
